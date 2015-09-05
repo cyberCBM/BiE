@@ -1,8 +1,8 @@
-GroPho-Editor
+GroPhoManager
 =============
-Group Photo Editor
+Group Photo Manager/Editor
 ------------------
-Bulk image editing made easier with GroPho Editor.
+Bulk image management and editing made easier with GroPho Manager/Editor.
 
 Created with:
 -------------
