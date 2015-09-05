@@ -21,7 +21,9 @@ Created with:
 References:
 -------------
 {Managed in externals}
+
 http://www.exiv2.org/ [http://www.gnu.org/licenses/old-licenses/gpl-2.0.html]
+
 Sub Libraryies managed by exiv2
 http://expat.sourceforge.net/
 http://www.zlib.net/
