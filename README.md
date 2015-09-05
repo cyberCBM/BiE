@@ -39,7 +39,8 @@ dhawalbanker@gmail.com
 
 Want to contribute? Please contact
 
-licence:
+License :
 --------
-[WTFPL](http://www.wtfpl.net/)
+The MIT License (MIT)
+[https://opensource.org/licenses/MIT]
 
