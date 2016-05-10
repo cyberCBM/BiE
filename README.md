@@ -28,7 +28,7 @@ References:
 
 http://www.exiv2.org/ [http://www.gnu.org/licenses/old-licenses/gpl-2.0.html]
 
-Sub Libraryies managed by exiv2
+Sub libraries managed by exiv2
 http://expat.sourceforge.net/
 http://www.zlib.net/
 
