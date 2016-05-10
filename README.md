@@ -14,7 +14,7 @@ How to Build:
 
 4) External libraries already linked in Qt project we provide, But you are free to build externals by following references.
 
-5) Go to GroPhoQtproj/build/ and open "bim.pro" with QtCreator and configure msvc and build .
+5) Go to BiMe/build/ and open "bim.pro" with QtCreator and configure msvc and build .
 
 Created with:
 -------------
