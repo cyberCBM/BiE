@@ -1,8 +1,8 @@
-GroPhoManager
+Bulk Image Manager/Editor
 =============
-Group Photo Manager/Editor
+Photo Manager/Editor in bulk
 -------------
-Bulk image management and editing made easier with GroPho Manager/Editor.
+Bulk image management and editing made easier with BiMe.
 
 How to Build:
 -------------
