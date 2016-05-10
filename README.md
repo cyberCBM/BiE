@@ -1,8 +1,8 @@
-Bulk Image Manager/Editor
+Bulk Image Editor (BiE)
 =============
-Photo Manager/Editor in bulk
+This application manage/Edit photos, images in bulk.
 -------------
-Bulk image management and editing made easier with BiMe.
+Bulk image management and editing made easier with BiE.
 
 How to Build:
 -------------
@@ -14,7 +14,7 @@ How to Build:
 
 4) External libraries already linked in Qt project we provide, But you are free to build externals by following references.
 
-5) Go to BiMe/build/ and open "bim.pro" with QtCreator and configure msvc and build .
+5) Go to BiE/build/ and open "bim.pro" with QtCreator and configure msvc and build .
 
 Created with:
 -------------
