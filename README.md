@@ -4,6 +4,11 @@ This application manage/Edit photos, images in bulk.
 -------------
 Bulk image management and editing made easier with BiE.
 
+Very basic usecases of BiE:
+1) Sort bulk images by image attributes [read by xvif]
+2) Perform basic image manipulation like copy, move, resize of images in bulk.
+3) BiE UI give easy to see images, start slidshow of selected bulk images.
+
 How to Build:
 -------------
 1) Install msvc [Microsoft Platform SDK. The SDK includes the Microsoft Visual C++ compilers and debugging tools. You can in addition install Visual Studio Express]
